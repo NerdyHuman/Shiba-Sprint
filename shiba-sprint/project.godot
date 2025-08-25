@@ -10,8 +10,14 @@ config_version=5
 
 [application]
 
-config/name="Shiba Sprint"
+config/name="Shiba Sprinter"
+run/main_scene="uid://cb04xo2p6db8c"
 config/features=PackedStringArray("4.4", "GL Compatibility")
+config/icon="res://images/icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
 
 [rendering]
 
