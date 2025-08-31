@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3 uid="uid://2gnrg0mq1r6"]
+
+[ext_resource type="Script" uid="uid://dfubgspqkmtkk" path="res://node_2d.gd" id="1_eupwk"]
+[ext_resource type="Texture2D" uid="uid://xyahoiws5or5" path="res://images/Start/Ground.png" id="2_fb4xh"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_eupwk")
+
+[node name="Background4" type="Sprite2D" parent="."]
+position = Vector2(1665, 92)
+scale = Vector2(1.07507, 1)
+texture = ExtResource("2_fb4xh")
+
+[node name="Background4" type="Sprite2D" parent="Background4"]
+position = Vector2(-699.489, 0)
+texture = ExtResource("2_fb4xh")
+
+[node name="Background2" type="Sprite2D" parent="Background4"]
+position = Vector2(-1044.58, 0)
+texture = ExtResource("2_fb4xh")
+
+[node name="Background" type="Sprite2D" parent="Background4"]
+position = Vector2(350.675, 0)
+texture = ExtResource("2_fb4xh")
+
+[node name="Background3" type="Sprite2D" parent="Background4"]
+position = Vector2(-1385.02, 0)
+scale = Vector2(0.930171, 1)
+texture = ExtResource("2_fb4xh")
+
+[node name="Background5" type="Sprite2D" parent="Background4"]
+position = Vector2(-351.605, 0)
+texture = ExtResource("2_fb4xh")
