@@ -1,19 +1,19 @@
 # Shiba Runner 🐕
 
-A simple endless runner game made in Godot where you play as a Shiba dog!  
-Jump over obstacles and try to survive as long as you can.  
+🚧 **Work in Progress** 🚧  
 
-## How to Play
-- **Space / Up Arrow** → Jump  
-- **Down Arrow** → Crouch (if added)  
+Shiba Runner is a small endless runner game I’m building in Godot.  
+The idea is simple: you play as a Shiba dog running endlessly, jumping over obstacles, and surviving as long as you can.  
 
-## Requirements
-- Godot Engine 4.x  
+## Why I’m Making This
+I’m building this game to:
+- Learn and practice Godot game development  
+- Explore game design and pixel art  
+- Eventually release a fun, polished little project  
 
-## Run the Game
-1. Clone or download this project.  
-2. Open it in Godot.  
-3. Press **Play ▶** to start the game.  
+## Current Status
+- Still in early development  
+- Basic mechanics are being tested  
+- Sprites and animations are not final  
 
-## Credits
-Made with ❤️ using Godot Engine.  
+Stay tuned for updates! 🐕💨  
